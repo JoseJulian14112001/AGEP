@@ -1,0 +1,39 @@
+.logo, .front-image, .agep {
+  max-width: 100%; /* Ajusta el ancho máximo de las imágenes */
+  height: auto; /* Mantiene la proporción de aspecto de las imágenes */
+}
+
+.agep {
+  max-width: 200px; /* Ajusta el ancho máximo específico para la imagen agep */
+}
+
+.red-line {
+  border-top: 5px solid red; /* Estilo para la línea roja */
+}
+
+.yellow-line {
+  border-top: 1px solid yellow; /* Estilo para la línea amarilla */
+}
+
+.button-wrapper {
+  margin-bottom: 10px; /* Espacio entre los botones */
+}
+
+.image-container {
+  margin-bottom: 20px; /* Espacio entre las imágenes */
+}
+/*
+.image-container {
+  display: flex;
+  flex-direction: column;
+}
+*/
+
+.buttons {
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.button-wrapper {
+  margin-bottom: 10px;
+}
